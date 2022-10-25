@@ -7,7 +7,7 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 1. Webscraping raw football data from the internet (usually in .csv or .json format).
 2. Load the data into python using a pandas DataFrame where I can perform data cleaning.
 3. After data has been cleaned, I load the data into a PostgreSQL database from python.
-4. Within Postgres, I perform the various data operations such as various row and column operations, filtering, aggregation, grouping, sorting and other window functions. There are many instances where complex joins are required within multiple datasets.
+4. Within Postgres, I perform various data operations such as row and column operations, filtering, aggregation, grouping, sorting and other window functions. There are many instances where complex joins are required within multiple datasets.
 (Data operations can be done in pandas as well, but I am much more comfortable using an RDBMS software. It also helps refresh my SQL knowledge.)
 
 5. Now the data is trimmed down and presented in a specific manner as per my requirements.
