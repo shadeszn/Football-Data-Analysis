@@ -18,11 +18,11 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specialization as well.
 
 BUT, how do you convey your insights to someone who:
-* has not seen the data themselves?
-* does not know how to intepret data?
-* wants to learn but raw data is too confusing?
+* understands football but does not understand data?
+* does not know how to intepret data in the correct context?
+* wants to learn about various data available in football, but raw data is too confusing?
 
-That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (I am not very good at it).
+That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (though I am not very good at it).
 
 Here are some samples from my work:
 
@@ -52,4 +52,3 @@ Here are some samples from my work:
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/not-ankurbiswas/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imnotAnkur)
