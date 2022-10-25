@@ -22,7 +22,7 @@ BUT, how do you convey your insights to someone who:
 * does not know how to intepret data?
 * wants to learn but raw data is too confusing?
 
-That is when visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (I am not very good at it).
+That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (I am not very good at it).
 
 Here are some samples from my work:
 
