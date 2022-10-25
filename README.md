@@ -15,7 +15,7 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 
 
 ## Some Analysis samples
-To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specilization as well.
+To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specialization as well.
 
 BUT, how do you convey your insights to someone who:
 * has not seen the data themselves?
