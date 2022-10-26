@@ -7,7 +7,7 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 1. Webscraping raw football data from the internet (usually in .csv or .json format).
 2. Load the data into python using a pandas DataFrame where I can perform data cleaning.
 3. After data has been cleaned, I load the data into a PostgreSQL database from python.
-4. Within Postgres, I perform the various data operations such as various row and column operations, filtering, aggregation, grouping, sorting and other window functions. There are many instances where complex joins are required within multiple datasets.
+4. Within Postgres, I perform various data operations such as row and column operations, filtering, aggregation, grouping, sorting and other window functions. There are many instances where complex joins are required within multiple datasets.
 (Data operations can be done in pandas as well, but I am much more comfortable using an RDBMS software. It also helps refresh my SQL knowledge.)
 
 5. Now the data is trimmed down and presented in a specific manner as per my requirements.
@@ -15,14 +15,14 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 
 
 ## Some Analysis samples
-To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specilization as well.
+To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specialization as well.
 
 BUT, how do you convey your insights to someone who:
-* has not seen the data themselves?
-* does not know how to intepret data?
-* wants to learn but raw data is too confusing?
+* understands football but does not understand data?
+* does not know how to intepret data in the correct context?
+* wants to learn about various data available in football, but raw data is too confusing?
 
-That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (I am not very good at it).
+That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (though I am not very good at it).
 
 Here are some samples from my work:
 
@@ -52,4 +52,3 @@ Here are some samples from my work:
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/not-ankurbiswas/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imnotAnkur)
