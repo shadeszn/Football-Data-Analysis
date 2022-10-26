@@ -26,16 +26,19 @@ That is where visualizations come in. To be honest this is a handy skillset to h
 
 Here are some samples from my work:
 
-1. __Which players complete the most passes in a match, and also who have the highest passing accuracy:__
-![player passing](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/passing_scatter.png)
-
-2. __Most clinical finishers: These players have a finshing ability well above the average footballer.__
+1. __Most clinical finishers: These players have a finshing ability well above the average footballer.__
 ![clinical finisher](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/striker_barchart.png)
 
-3. __Shot Stopping ability of Premier League Goalkeepers:__
+2. __Shot Stopping ability of Premier League Goalkeepers:__
 ![shot stopping](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/gsaa_barchart.png)
 
-4. __A simple table ranking the highest volume passers:__
+3. __Which players complete the most passes in a match, and also who have the highest passing accuracy:__
+![player passing](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/passing_scatter.png)
+
+4. __Arsenal Women FC's defensive numbers in the Women's Super League:__
+![wsl_linegraph](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/wsl_xga_linegraph.png)
+
+5. __A simple table ranking the highest volume passers:__
 ![most passes](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/mostpasses_table.png)
 
 ## Tech Stack
