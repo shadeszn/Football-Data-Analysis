@@ -32,13 +32,16 @@ Here are some samples from my work:
 2. __Shot Stopping ability of Premier League Goalkeepers:__
 ![shot stopping](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/gsaa_barchart.png)
 
-3. __Which players complete the most passes in a match, and also who have the highest passing accuracy:__
+3. __The most Complete Goalkeeper in world football:__
+![alisson chart](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/GK_charts/Alisson.png)
+
+4. __Which players complete the most passes in a match, and also who have the highest passing accuracy:__
 ![player passing](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/passing_scatter.png)
 
-4. __Arsenal Women FC's defensive numbers in the Women's Super League:__
+5. __Arsenal Women FC's defensive numbers in the Women's Super League:__
 ![wsl_linegraph](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/wsl_xga_linegraph.png)
 
-5. __A simple table ranking the highest volume passers:__
+6. __A simple table ranking the highest volume passers:__
 ![most passes](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/mostpasses_table.png)
 
 ## Tech Stack
