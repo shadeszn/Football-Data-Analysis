@@ -12,6 +12,7 @@ All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football
 2. Loading the datasets into Python using pandas for data cleaning.
 3. Storing the cleaned data into a local PostgreSQL database server.
 4. Performing various operations in Postgres like filtering, aggregation, grouping, sorting and using other window functions until the data is ready to be used for analysis. There are many instances where complex joins are required within multiple tables.
+
 (Data operations can be done in pandas as well, but I am much more comfortable using an RDBMS software. It also helps refresh my SQL knowledge.)
 
 5. Now the data is trimmed down and presented in a specific manner as per the requirement.
