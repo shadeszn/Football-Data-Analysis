@@ -3,7 +3,7 @@ I am a computer science student and also greatly passionate about football. Not 
 
 The objective is to increase my literacy of Football and Football Analytics. Working with this kind of data helps me understand football better. I enjoy being part of this educational journey day by day and aspire to learn more about this sport.
 
-As a by-product of this project, I am also able to share my learnings with my friends and other people on the internet who are also football fans, and hopefully aid them in learning about this. I ocassionally post my work on social networks and engage in conversation with other similar-minded people in the community.
+As a by-product of this project, I am also able to share my learnings with my friends and other people on the internet who are also football fans, and hopefully aid them in learning as well. I ocassionally post my work on social networks and engage in conversation with other similar-minded people in the community.
 
 ## Workflow
 All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football-Data-Analysis) GitHub repository is included in the Jupyter Notebooks subfolder, of which the workflow is divided into the following:
