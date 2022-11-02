@@ -25,7 +25,7 @@ BUT, how do you convey your insights to someone who:
 * does not know how to intepret data in the correct context?
 * wants to learn about various data available in football, but raw data is too confusing?
 
-I realized during my learning journey that visualzing data in a useful skill to have. In order to communicate my insights to other people, I use these visualizations.
+I realized during my learning journey that visualizing data in a useful skill to have. In order to communicate my insights to other people, I use these visualizations.
 
 ## Some Analysis samples
 Here are some samples of my work:
