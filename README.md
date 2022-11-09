@@ -43,8 +43,11 @@ Here are some samples of my work:
 ![player passing](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/passing_scatter.png)
 
 5. __A General overview of the Indian Super League. This information is useful for people who have not watched the ISL before and want to get a broad idea. This holds true for coaches and players who are looking to do research on the league as a workplace or scouts looking for potential targets in the region:__
+Players' shot location hexbins: 
 ![isl_hexbin](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_hexbin.png)
+Dribble locations:
 ![isl_dribblers](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_dribbling.png)
+Pressures applied by each team:
 ![isl_pressures](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_pressures.png)
 
 6. __Arsenal Women FC's defensive numbers in the Women's Super League:__
