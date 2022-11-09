@@ -1,0 +1,473 @@
+player_id,player,team,position,minute,location,dribble_outcome
+13322,Greg Stewart,Jamshedpur,Right Wing,24,"{92.7,35.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,0,"{104.6,13.4}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,2,"{99.5,8.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,2,"{109.6,5.3}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,12,"{57.4,11.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,12,"{107.8,22.4}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,13,"{102.9,12.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,30,"{108.7,30.3}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,31,"{101.9,9.8}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,48,"{107.2,49.4}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,48,"{96.5,65.5}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,50,"{112.4,4.1}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,54,"{68.2,17.5}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,55,"{101.0,18.8}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Midfield,63,"{103.1,48.5}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,66,"{92.7,18.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,67,"{107.9,7.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,70,"{113.2,22.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,78,"{100.1,17.8}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,90,"{90.9,22.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,94,"{89.8,2.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,41,"{45.8,72.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,62,"{53.8,2.1}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,71,"{115.4,72.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,3,"{113.6,69.3}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,10,"{103.1,12.9}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,11,"{108.6,17.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,1,"{93.7,2.1}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,22,"{104.4,58.6}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,35,"{67.8,76.1}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,37,"{116.8,60.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,49,"{60.1,30.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,54,"{108.1,22.8}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,63,"{106.4,5.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,89,"{64.4,20.7}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,51,"{108.7,22.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,64,"{108.7,19.7}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Defensive Midfield,14,"{60.0,2.5}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,66,"{62.3,39.0}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,67,"{57.0,17.4}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Midfield,21,"{104.0,23.2}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Midfield,22,"{83.2,24.2}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Midfield,34,"{103.5,49.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,46,"{108.4,14.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,58,"{69.5,3.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,58,"{67.8,6.6}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,39,"{85.2,75.4}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,45,"{57.0,27.3}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,67,"{115.0,9.7}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,81,"{61.3,3.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,4,"{62.9,77.3}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,5,"{103.9,32.7}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,9,"{81.1,22.6}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,41,"{105.2,30.1}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,43,"{87.2,64.6}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,43,"{116.6,67.9}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,62,"{72.7,52.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,74,"{88.8,53.9}",Complete
+8150,Francisco Javier Hernández González,Odisha,Left Defensive Midfield,90,"{81.7,5.3}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,5,"{104.4,14.6}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,16,"{101.5,55.0}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,21,"{72.1,34.3}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,21,"{91.5,48.0}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,37,"{103.0,30.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,21,"{113.4,17.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,26,"{105.7,18.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,47,"{57.2,19.6}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Wing,68,"{107.5,16.0}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Wing,68,"{107.0,19.4}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,84,"{67.2,22.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,87,"{61.6,74.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,92,"{45.6,74.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,22,"{34.5,32.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,27,"{112.7,32.7}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,38,"{105.1,33.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,42,"{78.1,73.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,67,"{43.0,75.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,72,"{79.7,46.9}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,85,"{76.0,39.4}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,94,"{91.3,53.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,6,"{88.8,58.7}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,6,"{105.3,51.6}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,16,"{90.8,45.7}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,36,"{90.5,66.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,36,"{73.7,7.4}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,40,"{43.9,21.0}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,48,"{110.4,62.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,58,"{52.2,26.9}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,70,"{75.9,67.6}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,70,"{67.2,75.2}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,6,"{37.7,57.7}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,24,"{90.5,30.6}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,77,"{93.8,29.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,0,"{51.9,28.7}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,29,"{112.1,75.8}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,41,"{45.2,61.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,48,"{98.9,32.7}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,59,"{97.4,11.9}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,19,"{113.6,18.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,28,"{72.5,47.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,28,"{72.8,46.7}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,36,"{96.2,14.4}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,59,"{48.4,38.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,62,"{82.5,21.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,11,"{71.5,18.2}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,9,"{73.5,62.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,10,"{58.3,71.6}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,19,"{112.4,38.2}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,24,"{116.9,58.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,46,"{106.1,66.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,46,"{116.7,64.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,49,"{97.8,49.7}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,52,"{98.5,30.1}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,4,"{66.7,62.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,71,"{89.8,16.6}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,86,"{83.0,26.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,91,"{94.6,17.2}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,22,"{96.3,62.2}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,81,"{103.0,40.0}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,19,"{52.2,15.0}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,36,"{78.1,35.3}",Complete
+13322,Greg Stewart,Jamshedpur,Right Midfield,94,"{69.0,57.8}",Complete
+13322,Greg Stewart,Jamshedpur,Right Midfield,94,"{109.6,36.9}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,2,"{21.8,69.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,10,"{92.9,7.5}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,10,"{87.5,25.0}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,14,"{116.6,9.6}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,17,"{33.7,28.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,18,"{99.7,11.2}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,24,"{62.2,32.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,26,"{56.8,72.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,26,"{63.5,75.3}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,30,"{98.9,30.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,31,"{85.2,14.2}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,38,"{98.3,13.3}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,44,"{81.2,4.8}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,51,"{86.8,12.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,51,"{77.5,22.3}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,57,"{43.1,6.4}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,57,"{45.5,19.6}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,60,"{74.6,13.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,64,"{55.7,31.7}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,73,"{106.4,6.1}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,85,"{69.2,36.3}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,85,"{89.7,70.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,87,"{66.6,37.9}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,90,"{29.7,68.6}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,90,"{36.1,57.8}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,67,"{69.4,13.8}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,83,"{48.5,31.2}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,4,"{65.9,12.5}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,6,"{97.9,10.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,10,"{105.9,11.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,15,"{107.1,24.9}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,24,"{117.8,23.2}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,29,"{110.2,56.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,34,"{114.5,15.6}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,40,"{88.0,61.6}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,44,"{87.3,8.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,45,"{102.9,7.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,46,"{107.9,19.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,54,"{92.9,4.2}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,87,"{14.5,27.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,8,"{106.0,21.7}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,23,"{61.5,72.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,32,"{91.3,3.6}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,32,"{104.3,7.5}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,46,"{55.3,51.5}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,46,"{45.7,59.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,58,"{113.0,25.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Right Center Forward,62,"{74.7,14.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,13,"{84.6,36.4}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,33,"{48.8,68.8}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,47,"{81.5,16.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,60,"{102.5,26.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,62,"{66.2,18.6}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,84,"{103.1,17.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,84,"{104.7,21.6}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,87,"{103.9,33.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,92,"{21.5,4.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,3,"{115.5,64.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,3,"{114.8,66.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,3,"{113.8,58.3}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,11,"{100.3,55.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,18,"{98.4,14.4}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,26,"{114.5,20.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,45,"{67.5,59.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,70,"{75.8,17.2}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,70,"{87.3,46.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,92,"{91.0,61.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,45,"{89.0,13.8}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,51,"{107.2,59.6}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,63,"{99.2,61.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,66,"{80.1,79.6}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,90,"{77.0,53.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,28,"{29.2,27.2}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Attacking Midfield,79,"{108.1,32.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Attacking Midfield,81,"{102.1,9.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Attacking Midfield,92,"{46.0,13.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,63,"{59.1,7.0}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,64,"{102.1,58.8}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,1,"{45.2,18.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,3,"{108.3,21.8}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,9,"{110.2,10.6}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,9,"{103.8,14.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,11,"{62.3,25.2}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,13,"{56.5,62.8}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,13,"{59.5,52.1}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,17,"{91.6,21.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,21,"{37.5,58.1}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,28,"{85.9,23.0}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,37,"{114.5,1.6}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,58,"{110.8,25.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,58,"{114.0,27.5}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,60,"{54.4,59.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,60,"{88.8,30.5}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Forward,69,"{110.4,67.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,68,"{99.6,29.1}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,78,"{90.4,8.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,87,"{46.4,73.4}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,33,"{105.4,5.8}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,58,"{49.9,5.3}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,61,"{84.5,50.9}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Left Center Midfield,70,"{80.1,24.4}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,22,"{75.1,14.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,22,"{77.5,16.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,37,"{98.5,4.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,37,"{101.4,7.9}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,46,"{104.5,59.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,81,"{76.0,36.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,89,"{101.4,11.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,2,"{33.8,6.6}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,7,"{63.2,62.5}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,12,"{44.7,6.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,14,"{76.3,11.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,34,"{104.0,76.2}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,47,"{66.6,18.2}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,54,"{87.4,74.9}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,56,"{99.9,10.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,61,"{81.9,68.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,70,"{57.0,53.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,70,"{56.8,26.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,94,"{108.4,17.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,94,"{104.8,21.2}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,21,"{72.6,62.6}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,36,"{112.6,19.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,44,"{86.9,47.2}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,45,"{94.4,46.8}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,65,"{78.5,76.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,65,"{46.5,58.3}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,72,"{104.6,49.6}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,19,"{86.2,54.3}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,24,"{64.3,10.1}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,24,"{64.6,13.1}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,25,"{68.1,73.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,37,"{94.1,19.5}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,44,"{91.8,38.4}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,45,"{56.5,50.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,57,"{72.7,4.7}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Center Forward,61,"{70.3,11.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,79,"{75.1,13.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,11,"{80.3,50.6}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,26,"{86.7,48.5}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,51,"{97.6,73.5}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,51,"{109.8,35.5}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,60,"{52.6,73.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,72,"{113.7,24.4}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,72,"{110.6,20.2}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Center Attacking Midfield,80,"{107.5,49.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,9,"{112.9,13.5}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,23,"{71.0,48.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,29,"{109.8,18.0}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,29,"{109.9,24.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,56,"{78.4,73.7}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,56,"{81.2,73.7}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,74,"{54.2,21.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Right Midfield,79,"{91.8,72.5}",Incomplete
+13322,Greg Stewart,Jamshedpur,Right Midfield,86,"{113.4,61.2}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,24,"{56.6,74.9}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,26,"{108.5,37.4}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,50,"{66.4,18.7}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,37,"{40.6,76.2}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,73,"{97.3,9.6}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,8,"{72.2,27.2}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,14,"{106.8,59.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,33,"{117.4,78.1}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,39,"{105.4,59.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,47,"{111.8,36.9}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,70,"{85.1,38.4}",Incomplete
+13322,Greg Stewart,Jamshedpur,Right Defensive Midfield,86,"{35.3,11.1}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,93,"{47.3,78.8}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,29,"{69.1,65.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,31,"{108.1,69.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,31,"{109.2,69.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,34,"{114.9,10.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,37,"{65.7,51.4}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,48,"{108.1,72.6}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,47,"{86.7,17.2}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,47,"{87.1,34.5}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,57,"{70.5,19.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,77,"{94.1,64.9}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,21,"{91.6,49.1}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,66,"{103.8,32.4}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,71,"{115.1,23.1}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,47,"{36.9,73.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,69,"{36.6,39.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,0,"{118.4,20.6}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,5,"{116.6,14.8}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,25,"{107.4,18.3}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,33,"{112.8,18.6}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,50,"{96.2,10.3}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,57,"{88.0,7.3}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,73,"{55.0,26.7}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,90,"{100.4,22.1}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,95,"{67.5,5.7}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,8,"{30.2,36.7}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,30,"{101.7,42.9}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,32,"{54.0,14.7}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,60,"{88.6,56.3}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,65,"{108.3,23.4}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,20,"{17.0,74.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,25,"{92.5,62.7}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,42,"{96.2,35.1}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,45,"{105.8,65.1}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,79,"{97.5,63.2}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,93,"{113.6,23.8}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,4,"{58.0,8.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,6,"{84.1,46.2}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,8,"{61.0,11.3}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,12,"{82.8,53.8}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,13,"{62.1,15.8}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,20,"{90.5,59.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,34,"{55.4,42.9}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,39,"{107.4,77.6}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,39,"{108.1,72.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,52,"{105.1,75.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,46,"{44.6,5.3}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,82,"{64.0,5.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,88,"{86.7,5.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Center Forward,91,"{52.5,55.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,92,"{98.4,29.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,95,"{100.4,28.2}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,2,"{102.3,5.9}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,6,"{95.0,63.3}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,67,"{45.9,66.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,3,"{48.1,11.8}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,6,"{92.2,4.3}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,33,"{93.7,6.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,33,"{107.0,24.8}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,34,"{94.7,14.3}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,43,"{54.5,38.7}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,50,"{71.8,3.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,76,"{44.6,7.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,34,"{64.5,66.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,34,"{64.2,61.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,44,"{60.3,23.1}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,56,"{37.7,58.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,74,"{69.2,48.9}",Incomplete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,68,"{93.2,19.6}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,68,"{95.3,25.6}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,70,"{64.7,30.7}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,70,"{75.1,31.9}",Complete
+13322,Greg Stewart,Jamshedpur,Center Attacking Midfield,74,"{87.6,33.3}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Wing,12,"{60.1,42.4}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Wing,14,"{56.7,76.4}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Wing,36,"{87.2,55.1}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,53,"{96.3,61.2}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,53,"{99.6,58.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,53,"{103.8,54.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,53,"{110.4,49.6}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,84,"{67.2,23.5}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Center Forward,48,"{46.5,48.5}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,58,"{98.2,18.3}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Center Forward,64,"{51.2,51.7}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Center Forward,67,"{75.4,62.4}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Midfield,72,"{114.7,8.5}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,12,"{63.6,28.0}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,21,"{111.3,9.1}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,23,"{116.8,69.6}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,4,"{51.8,77.0}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,24,"{117.2,6.6}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,43,"{103.2,44.9}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,19,"{72.5,52.9}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,25,"{86.9,61.8}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,32,"{103.1,59.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Center Forward,39,"{104.7,8.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,82,"{53.3,27.3}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,0,"{77.8,4.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,3,"{97.4,5.5}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,12,"{28.9,37.8}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,44,"{81.0,42.4}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,48,"{111.2,8.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Left Wing,63,"{79.0,19.2}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,12,"{117.2,65.2}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,42,"{100.7,4.2}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,42,"{110.0,16.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,46,"{110.7,21.6}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,46,"{115.0,31.9}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,51,"{38.6,17.9}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,51,"{35.8,26.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,53,"{57.1,5.4}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,60,"{116.6,20.2}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,60,"{116.1,23.4}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,66,"{50.9,22.3}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Center Forward,73,"{68.6,32.1}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,15,"{103.4,7.7}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Wing,17,"{70.0,11.4}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Wing,17,"{81.2,5.6}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,42,"{96.9,29.1}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,44,"{110.8,69.0}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,71,"{101.4,32.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,84,"{98.2,42.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,84,"{102.0,41.1}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,3,"{34.4,41.7}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,5,"{93.7,24.0}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,19,"{16.0,70.4}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Midfield,59,"{59.2,55.2}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,25,"{68.3,25.8}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,22,"{74.2,11.1}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,36,"{107.8,47.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Forward,38,"{75.4,58.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,82,"{85.2,64.8}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Attacking Midfield,3,"{67.9,60.5}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Attacking Midfield,16,"{69.8,18.7}",Incomplete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Attacking Midfield,16,"{32.9,6.3}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,35,"{33.1,9.2}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Attacking Midfield,39,"{73.3,44.1}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing Back,43,"{100.1,3.7}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,8,"{31.4,13.8}",Complete
+8150,Francisco Javier Hernández González,Odisha,Center Attacking Midfield,37,"{58.1,21.3}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,19,"{100.2,52.3}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,40,"{106.9,15.9}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,40,"{107.8,22.0}",Complete
+13322,Greg Stewart,Jamshedpur,Right Center Forward,50,"{83.9,56.6}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,4,"{89.3,24.5}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,63,"{80.1,16.4}",Complete
+13322,Greg Stewart,Jamshedpur,Left Center Forward,4,"{102.7,35.2}",Complete
+13322,Greg Stewart,Jamshedpur,Left Center Forward,21,"{103.0,59.6}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,44,"{78.3,48.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,46,"{63.4,47.2}",Complete
+13322,Greg Stewart,Jamshedpur,Left Center Forward,47,"{87.3,75.4}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,55,"{99.3,5.0}",Incomplete
+13322,Greg Stewart,Jamshedpur,Right Midfield,81,"{82.8,67.0}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,5,"{105.1,43.4}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,4,"{73.4,38.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,5,"{81.3,56.0}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,13,"{73.6,32.4}",Incomplete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,13,"{73.4,39.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,35,"{64.6,36.5}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,38,"{71.3,52.8}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,46,"{34.5,50.0}",Incomplete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,49,"{92.3,63.4}",Complete
+8150,Francisco Javier Hernández González,Odisha,Right Center Forward,89,"{90.6,28.7}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Left Wing,47,"{68.8,20.8}",Incomplete
+13322,Greg Stewart,Jamshedpur,Left Center Forward,55,"{53.3,48.7}",Complete
+13322,Greg Stewart,Jamshedpur,Left Center Forward,68,"{106.1,76.7}",Complete
+163342,Hugo Adnan Boumous,ATK Mohun Bagan,Right Wing,72,"{64.2,35.0}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,93,"{105.1,9.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,97,"{102.1,32.2}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,3,"{69.0,4.3}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,7,"{86.5,56.9}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,23,"{66.1,67.8}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,27,"{83.5,37.6}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,47,"{25.6,26.7}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,47,"{117.3,7.0}",Complete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,56,"{100.7,2.5}",Incomplete
+159764,Jorge Ortiz Mendoza,Goa,Right Center Forward,64,"{70.9,27.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,20,"{112.3,67.7}",Complete
+159765,Cássio Gabriel Vilela Ferreira,Mumbai City,Center Attacking Midfield,20,"{113.6,55.3}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,24,"{99.3,20.7}",Incomplete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,54,"{99.5,9.4}",Complete
+124907,Liston Colaco,ATK Mohun Bagan,Left Wing,57,"{84.9,17.2}",Incomplete
