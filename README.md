@@ -42,10 +42,15 @@ Here are some samples of my work:
 4. __Which players complete the most passes in a match, and also who have the highest passing accuracy:__
 ![player passing](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/passing_scatter.png)
 
-5. __Arsenal Women FC's defensive numbers in the Women's Super League:__
+5. __A General overview of the Indian Super League. This information is useful for people who have not watched the ISL before and want to get a broad idea. This holds true for coaches and players who are looking to do research on the league as a workplace or scouts looking for potential targets in the region:__
+![isl_hexbin](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_hexbin.png)
+![isl_dribblers](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_dribbling.png)
+![isl_pressures](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/isl_pressures.png)
+
+6. __Arsenal Women FC's defensive numbers in the Women's Super League:__
 ![wsl_linegraph](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/wsl_xga_linegraph.png)
 
-6. __A simple table ranking the highest volume passers:__
+7. __A simple table ranking the highest volume passers:__
 ![most passes](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/mostpasses_table.png)
 
 ## Tech Stack
