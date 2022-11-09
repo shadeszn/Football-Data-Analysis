@@ -1,30 +1,34 @@
  # Football Data Analysis
-This repository contains any kind of analysis and visualization that I do using data and statistics from professional Football. I like reading and analyzing in-depth of various aspects in Football. There are many details within Football and other sports that go unnoticed by the common eye. My motive is to find any piece of intersting football related data on the internet and then convey that to other people. For that I use very simplified visualizations which are easy to understand for the average football-watching audience (usually for my friends or social networking sites).
+I am a computer science student and also greatly passionate about football. Not just as a fan, but I like watching and analyzing football objectively and try to gain in-depth undestanding of the game. My computer science knowledge helps a little bit in this regard. This project is a culmination of those two aspects of my life.
+
+The objective is to increase my literacy of Football and Football Analytics. Working with this kind of data helps me understand football better. I enjoy being part of this educational journey day by day and aspire to learn more about this sport.
+
+As a by-product of this project, I am also able to share my learnings with my friends and other people on the internet who are also football fans, and hopefully aid them in learning as well. I ocassionally post my work on social networks and engage in conversation with other similar-minded people in the community.
 
 ## Workflow
 All the code in my [Football-Data-Analysis](https://github.com/shadeszn/Football-Data-Analysis) GitHub repository is included in the Jupyter Notebooks subfolder, of which the workflow is divided into the following:
 
 1. Webscraping raw football data from the internet (usually in .csv or .json format).
-2. Load the data into python using a pandas DataFrame where I can perform data cleaning.
-3. After data has been cleaned, I load the data into a PostgreSQL database from python.
-4. Within Postgres, I perform various data operations such as row and column operations, filtering, aggregation, grouping, sorting and other window functions. There are many instances where complex joins are required within multiple datasets.
+2. Loading the datasets into Python using pandas for data cleaning.
+3. Storing the cleaned data into a local PostgreSQL database server.
+4. Performing various operations in Postgres like filtering, aggregation, grouping, sorting and using other window functions until the data is ready to be used for analysis. There are many instances where complex joins are required within multiple tables.
+
 (Data operations can be done in pandas as well, but I am much more comfortable using an RDBMS software. It also helps refresh my SQL knowledge.)
 
-5. Now the data is trimmed down and presented in a specific manner as per my requirements.
-6. I load this data again in python, where I use the matplotlib library to create visualizations.
+5. Now the data is trimmed down and presented in a specific manner as per the requirement.
+6. Loading this data again in Python and using matplotlib to illustrate my findings.
 
-
-## Some Analysis samples
-To analyze data you do not need visualizations. Insights can be drawn by morphing and studying the data you have. Creating visuals is not my specialization as well.
+__NOTE:__ Analyzing the data and generating insights is always the end goal, not creating visuals. In each case I study the final data and make sure I understand it completely, after which I will be able infer something useful from it. 
 
 BUT, how do you convey your insights to someone who:
 * understands football but does not understand data?
 * does not know how to intepret data in the correct context?
 * wants to learn about various data available in football, but raw data is too confusing?
 
-That is where visualizations come in. To be honest this is a handy skillset to have and something that I learnt along the way (though I am not very good at it).
+I realized during my learning journey that visualizing data in a useful skill to have. In order to communicate my insights to other people, I use these visualizations.
 
-Here are some samples from my work:
+## Some Analysis samples
+Here are some samples of my work:
 
 1. __Most clinical finishers: These players have a finshing ability well above the average footballer.__
 ![clinical finisher](https://github.com/shadeszn/Football-Data-Analysis/blob/main/visualizations/striker_barchart.png)
