@@ -27,7 +27,7 @@ BUT, how do you convey your insights to someone who:
 
 I realized during my learning journey that visualizing data in a useful skill to have. In order to communicate my insights to other people, I use these visualizations.
 
-## Some Analysis samples
+## Some Analysis examples
 Here are some samples of my work:
 
 1. __Most clinical finishers: These players have a finshing ability well above the average footballer.__
